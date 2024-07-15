@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lesson14</string>
+    <string name="picture_descrip">Users picture</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="cell">Cell</string>
+    <string name="location">Location</string>
+    <string name="reload">Reload</string>
+</resources>
